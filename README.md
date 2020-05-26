@@ -1,4 +1,4 @@
-# CloudM-API_Wrapper
+# cloudm-wrapper
 
 This was written to allow easier implementation of the CloudM API when using Python.
 
